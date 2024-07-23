@@ -1,0 +1,17 @@
+
+{
+    "users": [
+      {
+        "username": "user1",
+        "password": "password1"
+      }
+    ],
+    "entries": [
+      {
+        "id": 1,
+        "date": "2023-07-23",
+        "content": "First entry"
+      }
+    ]
+  }
+  
